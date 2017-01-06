@@ -1,6 +1,30 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Задача для ознакомления с тестированием. <br>
+Изначально в коде была ошибка, которая исправлена в текущей реализации.
+
+
+# Quickstart
+
+Пример запуска скрипта в среде Linux, под Python 3.5:
+
+```#!bash
+$ python tests.py
+```
+
+# Example
+
+```#!bash
+
+$ python tests.py
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
+
+```
+
 
 # Project Goals
 
